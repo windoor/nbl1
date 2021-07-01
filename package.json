@@ -1,0 +1,22 @@
+{
+  "name": "nbl1",
+  "version": "0.0.1",
+  "description": "test.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/windoor/nbl1.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "windoor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/windoor/nbl1/issues"
+  },
+  "homepage": "https://github.com/windoor/nbl1#readme"
+}
